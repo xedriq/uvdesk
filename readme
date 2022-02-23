@@ -1,0 +1,1 @@
+php bin/console uvdesk:refresh-mailbox email-address@example.com
